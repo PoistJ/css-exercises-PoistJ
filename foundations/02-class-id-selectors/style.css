@@ -1,0 +1,16 @@
+p {
+  background-color: pink;
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.linethree {
+  font-size: 24px;
+}
+
+#linetwo {
+  color: blue;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+  
